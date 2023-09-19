@@ -1,0 +1,47 @@
+body{
+    background-color: #3c3281;
+    margin:0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+.marieme{
+    text-align: center;
+    background-color:#c913b1 ;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: O 1Opx rgba(O,0, 0.2);
+}
+h1{
+    font-size: 24px;
+    margin: 0;
+}
+#citation{
+    font-size: 18px;
+    margin: 20px 0; 
+
+}
+button{
+    background-color:#007bff ;
+    color: #99288d;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor:pointer ;
+    border-radius: 5px;
+}
+button:hover {
+    background-color:#0056b3 ;
+}
+.marieme,h1{
+    color: white;
+}
+#list{
+    color: white;
+    font-size: 50px;
+    /* align-items: center;
+    height: 50px; */
+}
+
